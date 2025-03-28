@@ -111,7 +111,7 @@ The tool generates two main types of output:
 
 ## Author
 
-Wladimir Banda Barragán (wbanda@yachaytech.edu.ec)
-Bryan J. Pinargote (bryanpinargote2000@gmail.com)
-Felix Teutloff
+- Wladimir Banda Barragán (wbanda@yachaytech.edu.ec)
+- Bryan J. Pinargote (bryanpinargote2000@gmail.com)
+- Felix Teutloff
 
