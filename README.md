@@ -106,5 +106,12 @@ python shocks_tracking.py --input_route_vtk_folder /path/to/vtk/files --input_fo
 
 The tool generates two main types of output:
 
-1. **VTR Files**: Contains the Mach number data for all shocks and cloud material shocks.
+1. **VTR Files**: Contains the Mach number data for all and cloud material shocks cells.
 2. **CSV Files**: Contains tracking data for the internal shocks and dense cloud material.
+
+## Author
+
+Wladimir Banda Barragán (wbanda@yachaytech.edu.ec)
+Bryan J. Pinargote (bryanpinargote2000@gmail.com)
+Felix Teutloff
+
