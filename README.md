@@ -45,7 +45,7 @@ conda create --name <env_name> --file requirements.txt
 
 ## Configuration
 
-The tool uses a YAML configuration file (`config.yaml`) to set parameters for the analysis. Key configuration parameters include:
+The tool uses a YAML configuration file (`config.yaml`) to set parameters for the analysis. Example key configuration parameters include:
 
 ```yaml
 route_vtk_folder: /path/to/PLUTO/Test_Problems/folder
